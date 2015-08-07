@@ -145,7 +145,7 @@ namespace SmartPad
             else
                 dateTimePickerEnd.Enabled = true;
         }
-// изменение индекса редактируемого события
+// изменение индекса редактируемого события !
         private void buttonPrevEvent_Click(object sender, EventArgs e)
         {
             if (indexOfEditableEvent > 0)
